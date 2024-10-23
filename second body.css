@@ -1,0 +1,116 @@
+.suggestions{
+    
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.ride-dtails{
+    height: 155px;
+    width: 370px;
+    background-color: rgb(217, 221, 221);
+    margin-left: 100px;
+    border-radius: 10px;
+    position: relative;
+}
+.car{
+    position: absolute;
+    margin-left: 225px;
+    margin-top: -37px;
+    height: 128px;
+    width: 128px;
+}
+.ride-header{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+.ride-para{
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 15px;
+    margin-top: 0;
+    width: 200px;
+}
+.details-button{
+    background-color: white;
+    border: none;
+    height: 35px;
+    width: 65px;
+    border-radius: 15px;
+    margin-left: 15px;
+    font-size: 15px;
+
+}
+.package-details{
+    height: 155px;
+    width: 370px;
+    background-color: rgb(217, 221, 221);
+    margin-left: 100px;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 20px;
+}  
+.box1{
+    position: absolute;
+    margin-left: 225px;
+    margin-top: -37px;
+    height: 128px;
+    width: 128px;  
+}
+.package-header{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-bottom: 5px;  
+}
+.package-para{
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 15px;
+    margin-top: 0;
+    width: 200px; 
+}
+.reserve-details{
+    height: 155px;
+    width: 370px;
+    background-color: rgb(217, 221, 221);
+    margin-left: 100px;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 20px; 
+}
+.calender{
+    position: absolute;
+    margin-left: 225px;
+    margin-top: -37px;
+    height: 128px;
+    width: 128px; 
+}
+.reserve-header{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-bottom: 5px; 
+}
+.reserve-para{
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 15px;
+    margin-top: 0;
+    width: 200px; 
+}
+.ride-package-reserve{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 150px;
+}
+.get-start-already{
+    display: flex;
+    flex-direction: row;
+}

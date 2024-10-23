@@ -1,0 +1,40 @@
+.its-easier{
+    font-size: 35px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    margin-left: 100px;
+}
+.qr-and-text{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255 255 255);
+    width: 550px;
+    margin-left: 100px;
+    height: 200px;
+    margin-top: 0px;
+
+}
+.qr{
+    margin-left: 25px;
+    margin-top: 27px;
+}
+.download-app{
+    font-size: 24px;
+    font-weight: 600;
+}
+.scan-download{
+    font-size: 17px;
+}
+.download-scan{
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.app-qr-body{
+    background-color: rgb(245, 245, 241);
+    height: 400px;
+
+}
+.qr-flex{
+    display: flex;
+    flex-direction: row;
+}
